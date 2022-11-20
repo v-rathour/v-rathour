@@ -116,7 +116,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://v-rathour.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKJYxZek6UFaWUrqkqn_gUx7nCH9mAErfjh14VIfm9A&s" /></div>  
 
 <br/>  
 
@@ -128,7 +128,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/v-rathour" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
