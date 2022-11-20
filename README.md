@@ -116,8 +116,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKJYxZek6UFaWUrqkqn_gUx7nCH9mAErfjh14VIfm9A&s" /></div>  
-
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPKJYxZek6UFaWUrqkqn_gUx7nCH9mAErfjh14VIfm9A&s" />
+          <span > <img src="https://dev.java/assets/images/java-logo-vert-blk.png" style="width:300px;border:2px solid white;"></span>
+  </div>  
+                        
 <br/>  
 
 <div align="center">
